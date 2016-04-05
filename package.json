@@ -1,0 +1,26 @@
+{
+  "name": "universaljs",
+  "version": "1.0.0",
+  "description": "playing with universal js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mattkeehan/universalJS.git"
+  },
+  "keywords": [
+    "universaljs",
+    "javascript",
+    "react",
+    "node",
+    "nodejs"
+  ],
+  "author": "Matt Keehan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattkeehan/universalJS/issues"
+  },
+  "homepage": "https://github.com/mattkeehan/universalJS#readme"
+}
